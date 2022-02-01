@@ -1,1 +1,1 @@
-worker: node nec.js
+worker: node .
