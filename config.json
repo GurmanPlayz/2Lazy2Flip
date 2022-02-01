@@ -24,7 +24,7 @@
     "minPriceForRawcraft": 5000000
   },
   "webhook": {
-    "useWebhook": false,
+    "useWebhook": true,
     "discordWebhookUrl": "https://discord.com/api/webhooks/925034619894640680/Yxth_FNXk9EcMtrd_HoP4gVvpvLiBlLjlTl6NRCSOy0-R_Aw28XE8k2Hu4khn2AStTIg",
     "webhookName": "2Lazy2Flip",
     "webhookPFP": "https://repository-images.githubusercontent.com/427746896/c6d33e7c-4be2-4d21-8454-2a39c5dca4ab"
