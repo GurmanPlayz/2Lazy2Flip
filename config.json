@@ -3,13 +3,13 @@
     "autoOpen": true
   },
   "nec": {
-    "threadsToUse/speed": 16,
+    "threadsToUse/speed": 64,
     "ign": false,
-    "minSnipeProfit": 1000000,
+    "minSnipeProfit": 100000,
     "minCraftProfit": 1000000,
-    "minSnipePP": 1,
+    "minSnipePP": 8,
     "minCraftPP": 8,
-    "maxAvgLbinDiff": 1.5,
+    "maxAvgLbinDiff": 0.35,
     "rawCraftMaxWeightPP": 0.4,
     "ignoreCategories": {
       "weapon": false,
