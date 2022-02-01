@@ -3,10 +3,10 @@
     "autoOpen": true
   },
   "nec": {
-    "threadsToUse/speed": 64,
+    "threadsToUse/speed": 8,
     "ign": false,
     "minSnipeProfit": 100000,
-    "minCraftProfit": 1000000,
+    "minCraftProfit": 75000,
     "minSnipePP": 8,
     "minCraftPP": 8,
     "maxAvgLbinDiff": 0.35,
