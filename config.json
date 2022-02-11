@@ -5,12 +5,12 @@
   "nec": {
     "threadsToUse/speed": 24,
     "ign": false,
-    "minSnipeProfit": 500000,
+    "minSnipeProfit": 2500000,
     "minCraftProfit": 10000,
     "minSnipePP": 35,
-    "minCraftPP": 1,
-    "maxAvgLbinDiff": 0.35,
-    "rawCraftMaxWeightPP": 0.4,
+    "minCraftPP": 20,
+    "maxAvgLbinDiff": 0.5,
+    "rawCraftMaxWeightPP": 0.5,
     "ignoreCategories": {
       "weapon": false,
       "accessories": true,
