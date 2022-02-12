@@ -7,21 +7,21 @@
     "ign": true,
     "minSnipeProfit": 750000,
     "minCraftProfit": 10000,
-    "minSnipePP": 15,
-    "minCraftPP": 5,
+    "minSnipePP": 8,
+    "minCraftPP": 8,
     "maxAvgLbinDiff": 0.35,
     "rawCraftMaxWeightPP": 0.4,
     "ignoreCategories": {
       "weapon": false,
-      "accessories": true,
+      "accessories": false,
       "armor": false,
       "misc": false,
       "blocks": false,
-      "consumables": true
+      "consumables": false
     },
-    "minSales": 2,
+    "minSales": 1,
     "includeCraftCost": true,
-    "minPriceForRawcraft": 1000000
+    "minPriceForRawcraft": 10000
   },
   "webhook": {
     "useWebhook": true,
