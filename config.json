@@ -5,7 +5,7 @@
   "nec": {
     "threadsToUse/speed": 24,
     "ign": false,
-    "minSnipeProfit": 2500000,
+    "minSnipeProfit": 1500000,
     "minCraftProfit": 10000,
     "minSnipePP": 15,
     "minCraftPP": 5,
