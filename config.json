@@ -3,7 +3,7 @@
     "autoOpen": true
   },
   "nec": {
-    "threadsToUse/speed": 24,
+    "threadsToUse/speed": 16,
     "ign": false,
     "minSnipeProfit": 1500000,
     "minCraftProfit": 10000,
